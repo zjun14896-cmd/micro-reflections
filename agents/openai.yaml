@@ -1,0 +1,6 @@
+interface:
+  display_name: "微复盘"
+  short_description: "把零散口述整理成具体、简短、可继续行动的小复盘"
+  default_prompt: "Use $micro-reflections to turn these rough daily notes into short reflections with one small next step each."
+policy:
+  allow_implicit_invocation: true
